@@ -87,4 +87,4 @@
 <br/>
 
 ## 데모 영상
-- 추후 유튜브 링크 삽입 예정
+https://youtu.be/-LbV7Xpw9Mo
